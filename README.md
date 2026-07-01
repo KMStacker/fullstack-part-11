@@ -4,9 +4,6 @@ This repository is used for the CI/CD module of the Full Stack Open course
 
 Deployed application: [Link to Pokedex](https://pokedex-ajck.onrender.com/)
 
-Some change for 11.13 branch thingy
-Some change for 11.16 skip thingy
-
 ## Commands
 
 Start by running `npm install` inside the project folder
